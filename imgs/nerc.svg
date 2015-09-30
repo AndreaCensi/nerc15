@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 744.09448819 1052.3622047"
+   id="svg4263"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="nerc.svg">
+  <defs
+     id="defs4265">
+    <linearGradient
+       gradientTransform="matrix(1.7349453,0,0,1.25948,-499.8874,210.84971)"
+       inkscape:collect="always"
+       xlink:href="#linearGradient3906"
+       id="linearGradient3912"
+       x1="473.45401"
+       y1="81.430939"
+       x2="417.02887"
+       y2="16.394793"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3906">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop3908" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop3910" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="-42.142857"
+     inkscape:cy="520"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1440"
+     inkscape:window-height="775"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata4268">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <ellipse
+       ry="151.73982"
+       rx="168.86421"
+       cy="701.84894"
+       cx="379.18164"
+       style="fill:#b3b3b3;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:7.04286098;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path3903"
+       inkscape:export-filename="/Users/gdk/Documents/NERC/logo/rect3917.png"
+       inkscape:export-xdpi="85.349998"
+       inkscape:export-ydpi="85.349998" />
+    <g
+       id="g3884"
+       transform="matrix(1.9978469,0,0,1.9978469,-245.85913,-287.52354)"
+       inkscape:export-filename="/Users/gdk/Documents/NERC/logo/rect3917.png"
+       inkscape:export-xdpi="85.349998"
+       inkscape:export-ydpi="85.349998">
+      <ellipse
+         ry="10"
+         rx="17.857143"
+         cy="359.50504"
+         cx="142.14285"
+         inkscape:tile-y0="382.36218"
+         inkscape:tile-x0="117.14285"
+         transform="translate(171.42857,58.285714)"
+         id="use3872"
+         style="fill:#666666;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <ellipse
+         ry="10"
+         rx="17.857143"
+         cy="359.50504"
+         cx="142.14285"
+         inkscape:tile-y0="382.36218"
+         inkscape:tile-x0="117.14285"
+         transform="translate(172,49.142857)"
+         id="use3876"
+         style="fill:#666666;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <ellipse
+         ry="10"
+         rx="17.857143"
+         cy="359.50504"
+         cx="142.14285"
+         inkscape:tile-y0="382.36218"
+         inkscape:tile-x0="117.14285"
+         transform="translate(172,39.714286)"
+         id="use3878"
+         style="fill:#666666;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <ellipse
+         ry="10"
+         rx="17.857143"
+         cy="359.50504"
+         cx="142.14285"
+         inkscape:tile-y0="382.36218"
+         inkscape:tile-x0="117.14285"
+         transform="translate(171.42857,30.857143)"
+         id="use3880"
+         style="fill:#666666;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <ellipse
+         ry="10"
+         rx="17.857143"
+         cy="359.50504"
+         cx="142.14285"
+         inkscape:tile-y0="382.36218"
+         inkscape:tile-x0="117.14285"
+         transform="translate(171.42857,22.857143)"
+         id="use3882"
+         style="fill:#666666;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <rect
+       style="fill:#b3b3b3;fill-rule:evenodd;stroke:#000000;stroke-width:5.03587246;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2985"
+       width="219.86461"
+       height="149.08376"
+       x="269.10666"
+       y="330.6268"
+       rx="20.250689"
+       inkscape:export-filename="/Users/gdk/Documents/NERC/logo/rect3917.png"
+       inkscape:export-xdpi="85.349998"
+       inkscape:export-ydpi="85.349998" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:4.37501907;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3755"
+       width="45.285748"
+       height="45.285748"
+       x="403.9162"
+       y="373.82083"
+       rx="21.133348"
+       inkscape:export-filename="/Users/gdk/Documents/NERC/logo/rect3917.png"
+       inkscape:export-xdpi="85.349998"
+       inkscape:export-ydpi="85.349998" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect3755"
+       id="use3866"
+       transform="matrix(1.3049231,0,0,1.3246246,-222.38977,-127.48999)"
+       width="744.09448"
+       height="1052.3622"
+       inkscape:export-filename="/Users/gdk/Documents/NERC/logo/rect3917.png"
+       inkscape:export-xdpi="85.349998"
+       inkscape:export-ydpi="85.349998" />
+    <rect
+       style="fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:7.99138784;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5389"
+       width="68.497604"
+       height="136.99521"
+       x="210.79156"
+       y="753.22217"
+       rx="19.97847"
+       inkscape:export-filename="/Users/gdk/Documents/NERC/logo/rect3917.png"
+       inkscape:export-xdpi="85.349998"
+       inkscape:export-ydpi="85.349998" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect5389"
+       id="use5445"
+       transform="translate(262.57417,9.2857142e-6)"
+       width="744.09448"
+       height="1052.3622"
+       inkscape:export-filename="/Users/gdk/Documents/NERC/logo/rect3917.png"
+       inkscape:export-xdpi="85.349998"
+       inkscape:export-ydpi="85.349998" />
+    <ellipse
+       ry="12.843301"
+       rx="13.07448"
+       cy="396.74915"
+       cx="334.03302"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:8.19633675;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path5455"
+       inkscape:export-filename="/Users/gdk/Documents/NERC/logo/rect3917.png"
+       inkscape:export-xdpi="85.349998"
+       inkscape:export-ydpi="85.349998" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path5455"
+       id="use5457"
+       transform="matrix(0.88247997,0,0,0.91065724,131.42164,33.933045)"
+       width="744.09448"
+       height="1052.3622"
+       inkscape:export-filename="/Users/gdk/Documents/NERC/logo/rect3917.png"
+       inkscape:export-xdpi="85.349998"
+       inkscape:export-ydpi="85.349998" />
+    <g
+       id="g5487"
+       transform="matrix(1.9978469,0,0,1.9978469,-789.27352,248.75566)"
+       inkscape:export-filename="/Users/gdk/Documents/NERC/logo/rect3917.png"
+       inkscape:export-xdpi="85.349998"
+       inkscape:export-ydpi="85.349998">
+      <rect
+         transform="matrix(0.76185301,-0.64774994,0.58715722,0.80947291,0,0)"
+         y="487.33154"
+         x="265.85541"
+         height="55.483219"
+         width="9.0750599"
+         id="rect5453"
+         style="fill:#999999;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:3.04136133;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         ry="4.8666019"
+         transform="matrix(0.95197532,0.30617476,-0.68703362,0.72662563,0,0)"
+         y="-9.7206841"
+         x="551.92395"
+         height="71.229515"
+         width="11.134725"
+         id="rect5449"
+         style="fill:#999999;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:3.4028933;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <ellipse
+         ry="9.2857141"
+         rx="7.8571429"
+         cy="253.07646"
+         cx="483.57144"
+         transform="translate(7.7142857,-36.571428)"
+         id="path5451"
+         style="fill:#4d4d4d;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <g
+         inkscape:transform-center-y="16.640869"
+         inkscape:transform-center-x="-16.635594"
+         transform="matrix(0.76767213,0.64084281,-0.64084281,0.76767213,420.05925,-252.85218)"
+         id="g5482">
+        <rect
+           transform="matrix(0.99699255,-0.0774975,0.00580359,0.99998316,0,0)"
+           y="347.08627"
+           x="412.98291"
+           height="29.651142"
+           width="5.1594315"
+           id="rect5476"
+           style="fill:#999999;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.67642486;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <use
+           x="0"
+           y="0"
+           xlink:href="#rect5476"
+           id="use5478"
+           transform="matrix(0.00522906,-0.99997005,0.67557322,0.00773995,201.63092,748.54956)"
+           width="744.09448"
+           height="1052.3622" />
+        <use
+           x="0"
+           y="0"
+           xlink:href="#use5478"
+           id="use5480"
+           transform="translate(0,-10)"
+           width="744.09448"
+           height="1052.3622" />
+      </g>
+    </g>
+    <use
+       x="0"
+       y="0"
+       xlink:href="#g5487"
+       id="use5514"
+       transform="matrix(-1,0,0,1,770.45588,9.9892483)"
+       width="744.09448"
+       height="1052.3622"
+       inkscape:export-filename="/Users/gdk/Documents/NERC/logo/rect3917.png"
+       inkscape:export-xdpi="85.349998"
+       inkscape:export-ydpi="85.349998" />
+    <ellipse
+       ry="30.22752"
+       rx="196.04883"
+       cy="323.3996"
+       cx="381.46481"
+       style="opacity:1;fill:url(#linearGradient3912);fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.47821808px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="path3085"
+       inkscape:export-filename="/Users/gdk/Documents/NERC/logo/rect3917.png"
+       inkscape:export-xdpi="85.349998"
+       inkscape:export-ydpi="85.349998" />
+    <path
+       style="fill:#1a1a1a;fill-opacity:1"
+       d="m 328.67789,113.62564 82.75462,-2.8408 c 0,0 -0.17581,-0.61536 0,0 l 57.93756,203.46848 c 0.17581,0.61535 -0.51504,1.15487 -1.15495,1.15487 l -185.48771,0 c -0.6399,0 -1.30119,-0.532 -1.15495,-1.15487 l 47.10543,-200.62768 c 0.14584,-0.62287 -0.63951,0.022 0,0 z"
+       id="rect3914"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="scsssssss"
+       inkscape:export-filename="/Users/gdk/Documents/NERC/logo/rect3917.png"
+       inkscape:export-xdpi="85.349998"
+       inkscape:export-ydpi="85.349998" />
+    <rect
+       style="fill:#000000;stroke:none"
+       id="rect3919"
+       width="133.85574"
+       height="63.931103"
+       x="305.54663"
+       y="223.50723"
+       rx="0.34023944"
+       inkscape:export-filename="/Users/gdk/Documents/NERC/logo/rect3917.png"
+       inkscape:export-xdpi="85.349998"
+       inkscape:export-ydpi="85.349998" />
+    <rect
+       style="fill:none;stroke:#898989;stroke-width:13.31512737;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3917"
+       width="56.60952"
+       height="54.611671"
+       x="342.17197"
+       y="228.16689"
+       rx="0.90899783"
+       ry="0"
+       inkscape:export-xdpi="85.349998"
+       inkscape:export-ydpi="85.349998" />
+  </g>
+</svg>
